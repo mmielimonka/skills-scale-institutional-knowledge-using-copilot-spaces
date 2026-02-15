@@ -18,6 +18,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Initial assessment of UX/design needs, infrastructure requirements
+
+For role responsibilities during initiation, see [Role Interaction Map](octoacme-role-handoffs-and-ceremonies-checklist.md#role-interaction-map).
 
 ## Project One-pager Template
 - Project name:

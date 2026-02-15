@@ -6,13 +6,7 @@ Welcome to the OctoAcme Project Management documentation hub. This collection of
 
 OctoAcme follows a structured, five-phase project lifecycle designed to ensure consistent delivery of high-quality software while maintaining stakeholder alignment and team effectiveness. The lifecycle begins with **Initiation**, where we validate business needs and identify stakeholders. It moves through **Planning**, where we convert approved initiatives into actionable, prioritized backlogs with clear milestones. Next comes **Execution**, where teams deliver iteratively using daily standups and weekly syncs, followed by **Release**, with controlled deployments featuring staging validation and rollback procedures. Finally, **Retrospectives** capture learnings for continuous improvement. Our execution model emphasizes small, testable increments using a GitHub Projects workflow (Backlog → Ready → In Progress → In Review → QA → Done) with strict pull request standards requiring automated testing and peer review.
 
-Three core roles drive project success across all phases:
-
-- **Product Managers** own customer value, define success metrics, and prioritize the backlog to ensure we're building the right things.
-- **Project Managers** coordinate delivery, manage risks, and maintain stakeholder alignment to keep projects on track.
-- **Developers** implement features collaboratively while maintaining high test standards to ensure quality.
-
-All roles participate actively in daily standups and decision-making processes, with clear ownership documented at both the project and individual item levels. Weekly PM-PdM syncs ensure product and delivery remain aligned, while twice-weekly standups keep execution synchronized and transparent across the team.
+Core roles drive project success across all phases, including **Product Managers** who own customer value and prioritize the backlog, **Project Managers** who coordinate delivery and manage risks, **Developers** who implement features, **Scrum Masters** who facilitate agile ceremonies, **UX Designers** who ensure user-centered design, **Business Analysts** who bridge business needs with technical solutions, and **DevOps Engineers** who maintain infrastructure and deployment pipelines. All roles are documented in detail in the [Roles and Personas](octoacme-roles-and-personas.md) guide, and their interactions are clarified in the [Role Handoffs & Ceremonies Checklist](octoacme-role-handoffs-and-ceremonies-checklist.md).
 
 Communication and risk management are deeply embedded in OctoAcme's processes. We emphasize structured, regular communication through daily standups (15 minutes), weekly delivery syncs, monthly stakeholder updates, and clear escalation paths (Team → PM → Product Lead → Sponsor). Our Risk Register systematically tracks issues by ID, impact/likelihood, owner, and mitigation plan, with weekly reviews to ensure proactive management. Status communications follow standardized templates covering progress, next steps, risks/blockers, and decisions needed. For critical issues, our incident response protocol includes immediate triage, stakeholder notification, rollback options, and blameless retrospectives to drive learning.
 
@@ -30,6 +24,7 @@ This documentation is organized into focused process guides that detail each asp
 - **[OctoAcme Release and Deployment](octoacme-release-and-deployment.md)** – Standardized release processes, validation, and rollback procedures
 - **[OctoAcme Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** – Capturing learnings and driving iterative improvements
 - **[OctoAcme Roles and Personas](octoacme-roles-and-personas.md)** – Detailed role definitions and responsibilities
+- **[OctoAcme Role Handoffs & Ceremonies Checklist](octoacme-role-handoffs-and-ceremonies-checklist.md)** – RACI-lite responsibility matrix, role interaction map, and ceremony checklists
 
 ## Getting Started
 
