@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map (coordinate with DevOps Engineer for infrastructure needs)
+7. Create or expand the [arc42 architecture document](../arc42/arc42-template.md) (Sections 4–7: building blocks, deployment) to inform sprint scope and infrastructure planning *(for projects with significant technical complexity)*
 
 ## Backlog Item Template
 - Title:
