@@ -34,6 +34,7 @@ For detailed role descriptions, see [OctoAcme Roles and Personas](octoacme-roles
 - Risk Register
 - Retrospective notes and action items
 - [Role Handoffs & Ceremonies Checklist](octoacme-role-handoffs-and-ceremonies-checklist.md)
+- [arc42 Architecture Document](../arc42/README.md) *(recommended for projects with significant technical complexity)*
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.

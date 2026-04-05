@@ -19,6 +19,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 - Initial assessment of UX/design needs, infrastructure requirements
+- Initial architecture outline (Sections 1–3 of the [arc42 template](../arc42/arc42-template.md)) *(for projects with significant technical scope)*
 
 For role responsibilities during initiation, see [Role Interaction Map](octoacme-role-handoffs-and-ceremonies-checklist.md#role-interaction-map).
 
